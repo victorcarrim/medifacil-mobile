@@ -10,6 +10,16 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [] Desevolvimento da integração com IA para auxilio ao profissional de saúde sobre o histórico médico de um paciente.
 - [] Desenvolvimento da funcionalidade de familiares poderem acompanhar o tratamento de um paciente.
 
+## 🗃 Repositórios Complementares
+
+[MediFácil Frontend](https://github.com/victorcarrim/medifacil-frontend) - Repositório com o frontend da aplicação MediFácil
+
+[MediFácil Backend](https://github.com/victorcarrim/medifacil-backend) - Repositório com o backend da aplicação MediFácil
+
+Frontend disponível para acesso em: https://medifacil-frontend-two.vercel.app/
+
+Backend disponível para consumo em: https://medifacil-backend.vercel.app/
+
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
